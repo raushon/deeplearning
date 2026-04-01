@@ -1,2 +1,16 @@
 .DS_Store
 .vscode/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+anaconda_projects/
+.ipynb_checkpoints/
+*.ipynb
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.idea/
+*.iml
